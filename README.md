@@ -11,3 +11,5 @@ Web application that allows users to create a daily work schedule. Allows user t
 
 ## Website
 https://magiksadie.github.io/workday_scheduler/
+
+<img src ="./assets/images/workday_screenshot.png"/>
